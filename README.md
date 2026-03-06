@@ -24,6 +24,7 @@ I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Vilja
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
@@ -31,7 +32,6 @@ I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Vilja
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Infrastructure & Tools**
@@ -70,8 +70,8 @@ I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Vilja
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Gren-95&show_icons=true&hide_border=true&title_color=33ccff&icon_color=33ccff&text_color=e7e3de&bg_color=1c1917&cache_seconds=86400" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gren-95&layout=compact&hide_border=true&title_color=33ccff&text_color=e7e3de&bg_color=1c1917&cache_seconds=86400&langs_count=8" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Gren-95&show_icons=true&theme=dark&hide_border=true&title_color=33ccff&icon_color=33ccff&cache_seconds=86400" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gren-95&layout=compact&theme=dark&hide_border=true&title_color=33ccff&cache_seconds=86400&langs_count=8" />
 
 </div>
 

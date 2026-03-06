@@ -117,7 +117,7 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gren-95&show_icons=true&theme=tokyonight&hide_border=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gren-95?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 

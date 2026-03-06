@@ -67,6 +67,8 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-33ccff?style=flat&logo=wayland&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 ---
 

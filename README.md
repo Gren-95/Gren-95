@@ -65,7 +65,7 @@ I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Vilja
 
 | Years | School | Programme |
 |-------|--------|-----------|
-| 2023 – Present | [Viljandi Kutsehariduskeskus](https://vikk.ee/) | IT Systems Development |
+| 2023 – Present | [Viljandi Kutsehariduskeskus](https://vikk.ee/) | Junior Developer — EQF level 4 |
 | 2022 – 2024 | [Rakvere Ametikool](https://rak.ee/) | Junior IT Systems Specialist — EQF level 4 |
 
 ---

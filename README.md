@@ -81,7 +81,7 @@ I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Vilja
 
 | Years | Company | Role |
 |-------|---------|------|
-| 2022 – Present | JELD-WEN Eesti AS | IT Support Technician |
+| Feb 2024 – Present | JELD-WEN Eesti AS | Junior Web Developer |
 | Nov 2023 – Feb 2024 | JELD-WEN Eesti AS | Developer *(internship)* |
 | 2022 – 2023 | JELD-WEN Eesti AS | IT Support Technician *(internship x2)* |
 

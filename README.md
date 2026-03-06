@@ -79,12 +79,6 @@ I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Vilja
 
 ---
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Gren-95&show_icons=true&theme=dark&hide_border=true&title_color=33ccff&icon_color=33ccff&cache_seconds=86400" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gren-95&layout=compact&theme=dark&hide_border=true&title_color=33ccff&cache_seconds=86400&langs_count=8" />
-
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=33ccff&height=80&section=footer" />

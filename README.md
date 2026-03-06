@@ -80,6 +80,9 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 | [sonic-siphon](https://github.com/Gren-95/sonic-siphon) | Web app for downloading YouTube videos as MP3 |
 | [tailboard](https://github.com/Gren-95/tailboard) | Self-hosted homelab dashboard |
 | [ha-elering-ee](https://github.com/Gren-95/ha-elering-ee) | Home Assistant integration for Estonian electricity prices |
+| [java-gui-calculator](https://github.com/Gren-95/java-gui-calculator) | GUI calculator built in Java |
+| [esc2pipe](https://github.com/Gren-95/esc2pipe) | Fish shell plugin to insert a pipe on ESC keypress |
+| [Windows-toolbox](https://github.com/Gren-95/Windows-toolbox) | Collection of Windows utility tools |
 
 ---
 

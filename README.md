@@ -19,6 +19,7 @@ I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Vilja
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 **Frontend & Backend**
 
@@ -65,7 +66,7 @@ I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Vilja
 | Years | School | Programme |
 |-------|--------|-----------|
 | 2023 – Present | [Viljandi Kutsehariduskeskus](https://vikk.ee/) | IT Systems Development |
-| 2022 – 2024 | Rakvere Ametikool | Junior IT Systems Specialist — EQF level 4 |
+| 2022 – 2024 | [Rakvere Ametikool](https://rak.ee/) | Junior IT Systems Specialist — EQF level 4 |
 
 ---
 

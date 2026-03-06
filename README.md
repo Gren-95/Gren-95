@@ -51,6 +51,8 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
+![GNOME](https://img.shields.io/badge/-GNOME-4A86CF?style=flat&logo=gnome&logoColor=white)
+![KDE](https://img.shields.io/badge/-KDE-1D99F3?style=flat&logo=kde&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-00599C?style=flat&logo=cisco&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)

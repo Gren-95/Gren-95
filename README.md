@@ -6,6 +6,8 @@
 
 I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-wen.com/) and IT student from Rakvere, Estonia. I build web applications, maintain IT infrastructure, and work on homelab and open source projects in my spare time.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Efe%20Marko%20Güldere-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-marko-g%C3%BCldere-204724371/)
+
 ---
 
 ## 🛠 Technologies

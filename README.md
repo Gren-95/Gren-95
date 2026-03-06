@@ -117,7 +117,7 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 
 <div align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gren-95?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gren-95?cardType=level-alternate&preferLogin=false&Background=0d1117&Border=33ccff&Title=ffffff&Text=ffffff&Ring=33ccff&Fire=33ccff&Stats=ffffff)](https://git.io/awesome-stats-card)
 
 </div>
 

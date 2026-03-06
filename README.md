@@ -156,9 +156,9 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gren-95?cardType=level-alternate&preferLogin=false&Background=0d1117&Border=33ccff&Title=ffffff&Text=ffffff&Ring=33ccff&Fire=33ccff&Stats=ffffff)](https://git.io/awesome-stats-card)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gren-95&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com/?user=Gren-95&theme=dark&border=33ccff&ring=33ccff&fire=33ccff&currStreakLabel=33ccff&background=0d1117)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gren-95&theme=tokyonight)
 
 </div>
 

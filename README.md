@@ -4,7 +4,7 @@
 
 </div>
 
-I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Viljandi Kutsehariduskeskus](https://vikk.ee/) and build tools, homelab projects, and desktop configurations.
+I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-wen.com/) and IT student from Rakvere, Estonia. I build web applications, maintain IT infrastructure, and work on homelab and open source projects in my spare time.
 
 ---
 
@@ -46,6 +46,8 @@ I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Vilja
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-00599C?style=flat&logo=cisco&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
@@ -66,6 +68,15 @@ I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Vilja
 | [brands](https://github.com/Gren-95/brands) | Brand assets collection for Home Assistant |
 | [item](https://github.com/Gren-95/item) | IT equipment management system |
 | [bank-api](https://github.com/Gren-95/bank-api) | Banking API with internal and B2B transactions |
+
+---
+
+## 🌐 Languages
+
+| Language | Level |
+|----------|-------|
+| Estonian | Native |
+| English  | Professional working proficiency |
 
 ---
 

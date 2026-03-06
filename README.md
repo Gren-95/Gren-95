@@ -4,55 +4,67 @@
 
 </div>
 
-<div align="center">
-
-*Building tools, homelab projects, and desktop configs from Rakvere, Estonia*
-
-</div>
+I'm **Gren95**, a student and developer from Rakvere, Estonia. I study at [Viljandi Kutsehariduskeskus](https://vikk.ee/) and build tools, homelab projects, and desktop configurations.
 
 ---
 
-### About
+## 🛠 Technologies
 
-Student at **Viljandi Kutsehariduskeskus** — interested in Linux, self-hosting, terminal tooling, and home automation.
+**Languages**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
+![Hyprland](https://img.shields.io/badge/-Hyprland-33ccff?style=flat&logo=wayland&logoColor=white)
 
 ---
 
-### Tech
+## 🔧 Projects
 
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Hyprland](https://img.shields.io/badge/Hyprland-33ccff?style=flat-square&logo=wayland&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
+| Repository | Description |
+|------------|-------------|
+| [hyprland-dots](https://github.com/Gren-95/hyprland-dots) | Tailwind Stone themed Hyprland desktop config |
+| [SubTUI](https://github.com/Gren-95/SubTUI) | TUI music player for Subsonic servers with scrobbling |
+| [subCli](https://github.com/Gren-95/subCli) | Lightweight CLI music player for Subsonic servers |
+| [sonic-siphon](https://github.com/Gren-95/sonic-siphon) | Web app for downloading YouTube videos as MP3 |
+| [tailboard](https://github.com/Gren-95/tailboard) | Self-hosted homelab dashboard |
+| [ha-elering-ee](https://github.com/Gren-95/ha-elering-ee) | Home Assistant integration for Estonian electricity prices |
+| [brands](https://github.com/Gren-95/brands) | Brand assets collection for Home Assistant |
+| [item](https://github.com/Gren-95/item) | IT equipment management system |
+| [bank-api](https://github.com/Gren-95/bank-api) | Banking API with internal and B2B transactions |
 
 ---
 
-### Projects
+## 📚 Education
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [hyprland-dots](https://github.com/Gren-95/hyprland-dots) | Tailwind Stone themed Hyprland desktop config | Shell |
-| [SubTUI](https://github.com/Gren-95/SubTUI) | TUI music player for Subsonic servers with scrobbling | Go |
-| [subCli](https://github.com/Gren-95/subCli) | Lightweight CLI music player for Subsonic servers | Go |
-| [tailboard](https://github.com/Gren-95/tailboard) | Self-hosted homelab dashboard | HTML |
-| [sonic-siphon](https://github.com/Gren-95/sonic-siphon) | Web app for downloading YouTube videos as MP3 | HTML |
-| [ha-elering-ee](https://github.com/Gren-95/ha-elering-ee) | Home Assistant integration for Estonian electricity prices | Python |
-| [brands](https://github.com/Gren-95/brands) | Brand assets collection for Home Assistant | Shell |
-| [item](https://github.com/Gren-95/item) | IT equipment management system | TypeScript |
-| [bank-api](https://github.com/Gren-95/bank-api) | Banking API with internal and B2B transactions | JavaScript |
-| [tailboard](https://github.com/Gren-95/tailboard) | Self-hosted homelab dashboard | HTML |
+| Years | School | Programme |
+|-------|--------|-----------|
+| 2023 – Present | [Viljandi Kutsehariduskeskus](https://vikk.ee/) | IT Systems Development |
 
 ---
 

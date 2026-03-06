@@ -77,14 +77,9 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 | Repository | Description |
 |------------|-------------|
 | [hyprland-dots](https://github.com/Gren-95/hyprland-dots) | Tailwind Stone themed Hyprland desktop config |
-| [SubTUI](https://github.com/Gren-95/SubTUI) | TUI music player for Subsonic servers with scrobbling |
-| [subCli](https://github.com/Gren-95/subCli) | Lightweight CLI music player for Subsonic servers |
 | [sonic-siphon](https://github.com/Gren-95/sonic-siphon) | Web app for downloading YouTube videos as MP3 |
 | [tailboard](https://github.com/Gren-95/tailboard) | Self-hosted homelab dashboard |
 | [ha-elering-ee](https://github.com/Gren-95/ha-elering-ee) | Home Assistant integration for Estonian electricity prices |
-| [brands](https://github.com/Gren-95/brands) | Brand assets collection for Home Assistant |
-| [item](https://github.com/Gren-95/item) | IT equipment management system |
-| [bank-api](https://github.com/Gren-95/bank-api) | Banking API with internal and B2B transactions |
 
 ---
 

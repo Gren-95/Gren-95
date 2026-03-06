@@ -60,6 +60,8 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 ![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)

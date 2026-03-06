@@ -7,6 +7,7 @@
 I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-wen.com/) and IT student from Rakvere, Estonia. I build web applications, maintain IT infrastructure, and work on homelab and open source projects in my spare time.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Efe%20Marko%20Güldere-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-marko-g%C3%BCldere-204724371/)
+![Profile Views](https://komarev.com/ghpvc/?username=Gren-95&color=33ccff&style=flat)
 
 ---
 
@@ -21,6 +22,7 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Fish](https://img.shields.io/badge/-Fish-4AAE46?style=flat&logo=fish&logoColor=white)
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=flat&logo=powershell-white&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
@@ -60,7 +62,7 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 ![Nobara Linux](https://img.shields.io/badge/Nobara%20Linux-000?style=flat&logo=nobaralinux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
-![Alpine](https://img.shields.io/badge/-Alpine-0D597F?style=flat&logo=alpinelinux&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?style=flat&logo=alpinelinux&logoColor=white)
 ![GNOME](https://img.shields.io/badge/-GNOME-4A86CF?style=flat&logo=gnome&logoColor=white)
 ![KDE](https://img.shields.io/badge/-KDE-1D99F3?style=flat&logo=kde&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-33ccff?style=flat&logo=wayland&logoColor=white)
@@ -153,6 +155,10 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 <div align="center">
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gren-95?cardType=level-alternate&preferLogin=false&Background=0d1117&Border=33ccff&Title=ffffff&Text=ffffff&Ring=33ccff&Fire=33ccff&Stats=ffffff)](https://git.io/awesome-stats-card)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gren-95&layout=compact&bg_color=0d1117&border_color=33ccff&title_color=ffffff&text_color=ffffff)
+
+![Streak](https://streak-stats.demolab.com?user=Gren-95&theme=dark&border=33ccff&ring=33ccff&fire=33ccff&currStreakLabel=33ccff&background=0d1117)
 
 </div>
 

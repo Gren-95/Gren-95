@@ -43,30 +43,45 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
 
-**Infrastructure & Tools**
+**Operating Systems & Desktop**
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 ![GNOME](https://img.shields.io/badge/-GNOME-4A86CF?style=flat&logo=gnome&logoColor=white)
 ![KDE](https://img.shields.io/badge/-KDE-1D99F3?style=flat&logo=kde&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
-![Networking](https://img.shields.io/badge/-Networking-00599C?style=flat&logo=cisco&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Hyprland](https://img.shields.io/badge/-Hyprland-33ccff?style=flat&logo=wayland&logoColor=white)
+
+**Containers & Virtualisation**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+
+**Networking & Security**
+
 ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-00599C?style=flat&logo=cisco&logoColor=white)
+
+**Automation & CI/CD**
+
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Cloud, Storage & Monitoring**
+
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
-![Hyprland](https://img.shields.io/badge/-Hyprland-33ccff?style=flat&logo=wayland&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
 

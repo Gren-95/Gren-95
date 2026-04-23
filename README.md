@@ -157,8 +157,6 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 
 </div>
 
----
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=33ccff&height=80&section=footer" />

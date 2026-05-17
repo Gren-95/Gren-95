@@ -113,7 +113,7 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 
 | Repository | Description |
 |------------|-------------|
-| [hyprland-dots](https://github.com/Gren-95/hyprland-dots) | Tailwind Stone themed Hyprland desktop config |
+| [hyprland-dots](https://github.com/Gren-95/hyprland-dots) | Hyprland + Quickshell desktop, Tailwind Stone palette |
 | [sonic-siphon](https://github.com/Gren-95/sonic-siphon) | Web app for downloading YouTube videos as MP3 |
 | [tailboard](https://github.com/Gren-95/tailboard) | Self-hosted homelab dashboard |
 | [ha-elering-ee](https://github.com/Gren-95/ha-elering-ee) | Home Assistant integration for Estonian electricity prices |

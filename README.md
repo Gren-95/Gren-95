@@ -135,7 +135,7 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 
 | Years | School | Programme |
 |-------|--------|-----------|
-| 2024 – Present | [Viljandi Kutsehariduskeskus](https://vikk.ee/) | Junior Developer — EQF level 4 |
+| 2024 – 2026 | [Viljandi Kutsehariduskeskus](https://vikk.ee/) | Junior Developer — EQF level 4 |
 | 2022 – 2024 | [Rakvere Ametikool](https://rak.ee/) | Junior IT Systems Specialist — EQF level 4 |
 
 ---

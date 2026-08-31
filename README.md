@@ -6,6 +6,7 @@
 
 I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-wen.com/) and IT student from Rakvere, Estonia. I build web applications, maintain IT infrastructure, and work on homelab and open source projects in my spare time.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-gren--95.github.io-0E7490?style=flat&logo=svelte&logoColor=white)](https://gren-95.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Efe%20Marko%20Güldere-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-marko-g%C3%BCldere-204724371/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Gren-95&color=33ccff&style=flat)
 
@@ -135,6 +136,7 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 
 | Years | School | Programme |
 |-------|--------|-----------|
+| 2026 – | [Tallinna Tehnikaülikool](https://taltech.ee/) | Arukad süsteemid ja rakendusinfotehnoloogia — professional higher education |
 | 2024 – 2026 | [Viljandi Kutsehariduskeskus](https://vikk.ee/) | Junior Developer — EQF level 4 |
 | 2021 – 2024 | [Rakvere Ametikool](https://rak.ee/) | Junior IT Systems Specialist — EQF level 4 |
 

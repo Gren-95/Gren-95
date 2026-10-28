@@ -146,8 +146,9 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 
 | Years | Company | Role |
 |-------|---------|------|
-| Feb 2024 – Present | JELD-WEN Eesti AS | Junior Web Developer |
-| 2022 – Feb 2024 | JELD-WEN Eesti AS | IT Support Technician *(3 internships)* |
+| Apr 2026 – Present | JELD-WEN Eesti AS | Junior Web Developer |
+| Sep 2024 – Mar 2026 | JELD-WEN Eesti AS | Web Developer *(internship)* |
+| Feb 2023 – Aug 2024 | JELD-WEN Eesti AS | IT Support Technician *(2 internships)* |
 
 ---
 

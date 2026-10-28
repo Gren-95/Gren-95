@@ -4,7 +4,7 @@
 
 </div>
 
-I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-wen.com/) and IT student from Rakvere, Estonia. I build web applications, maintain IT infrastructure, and work on homelab and open source projects in my spare time.
+I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Eesti AS](https://www.jeld-wen.com/) and IT student from Rakvere, Estonia. I build web applications, maintain IT infrastructure, and work on homelab and open source projects in my spare time.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gren--95.github.io-0E7490?style=flat&logo=svelte&logoColor=white)](https://gren-95.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Efe%20Marko%20Güldere-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-marko-g%C3%BCldere-204724371/)
@@ -146,7 +146,7 @@ I'm **Gren95**, a Junior Web Developer at [JELD-WEN Eesti AS](https://www.jeld-w
 
 | Years | Company | Role |
 |-------|---------|------|
-| Apr 2026 – Present | JELD-WEN Eesti AS | Junior Web Developer |
+| Apr 2026 – Present | JELD-WEN Eesti AS | Junior Developer & IT Operations Specialist |
 | Sep 2024 – Mar 2026 | JELD-WEN Eesti AS | Web Developer *(internship)* |
 | Feb 2023 – Aug 2024 | JELD-WEN Eesti AS | IT Support Technician *(2 internships)* |
 

@@ -12,7 +12,7 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 **Languages**
 
@@ -136,7 +136,7 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 
 ---
 
-## 🔧 Projects
+## Projects
 
 | Repository | Description |
 |------------|-------------|
@@ -149,7 +149,7 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 
 ---
 
-## 🌐 Languages
+## Languages
 
 | Language | Level |
 |----------|-------|
@@ -158,7 +158,7 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 
 ---
 
-## 📚 Education
+## Education
 
 | Years | School | Programme |
 |-------|--------|-----------|
@@ -168,7 +168,7 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 
 ---
 
-## 💼 Work
+## Work
 
 | Years | Company | Role |
 |-------|---------|------|
@@ -178,7 +178,7 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 

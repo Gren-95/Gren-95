@@ -20,11 +20,13 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Fish](https://img.shields.io/badge/-Fish-4AAE46?style=flat&logo=fish&logoColor=white)
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=flat&logo=powershell-white&logoColor=white)
+![QML](https://img.shields.io/badge/-QML-41CD52?style=flat&logo=qt&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
@@ -35,13 +37,16 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-008ECF?style=flat&logo=gin&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/-Caddy-1F88C0?style=flat&logo=caddy&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=white)
 
@@ -49,9 +54,17 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Testing**
+
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 **Operating Systems & Desktop**
 
@@ -72,6 +85,7 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-C080FF?style=flat&logo=portainer&logoColor=white)
 
@@ -93,8 +107,20 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
+
+**Self-hosted & Smart Home**
+
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![Zigbee2MQTT](https://img.shields.io/badge/-Zigbee2MQTT-FFC135?style=flat&logo=zigbee2mqtt&logoColor=black)
+![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/-Uptime%20Kuma-5CDD8B?style=flat&logo=uptimekuma&logoColor=black)
+![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat&logo=gitea&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)
+![Immich](https://img.shields.io/badge/-Immich-4250AF?style=flat&logo=immich&logoColor=white)
+![AdGuard Home](https://img.shields.io/badge/-AdGuard%20Home-68BC71?style=flat&logo=adguard&logoColor=white)
 
 **Tools**
 

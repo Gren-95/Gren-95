@@ -136,9 +136,9 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 
 | Years | School | Programme |
 |-------|--------|-----------|
-| 2026 – | [Tallinna Tehnikaülikool](https://taltech.ee/) | Arukad süsteemid ja rakendusinfotehnoloogia — professional higher education |
-| 2024 – 2026 | [Viljandi Kutsehariduskeskus](https://vikk.ee/) | Junior Developer — EQF level 4 |
-| 2021 – 2024 | [Rakvere Ametikool](https://rak.ee/) | Junior IT Systems Specialist — EQF level 4 |
+| 2026 - present | [Tallinna Tehnikaülikool](https://taltech.ee/) | Arukad süsteemid ja rakendusinfotehnoloogia (professional higher education) |
+| 2024 - 2026 | [Viljandi Kutsehariduskeskus](https://vikk.ee/) | Junior Developer, EQF level 4 |
+| 2021 - 2024 | [Rakvere Ametikool](https://rak.ee/) | Junior IT Systems Specialist, EQF level 4 |
 
 ---
 
@@ -146,9 +146,9 @@ I'm **Gren95**, a Junior Developer and IT Operations Specialist at [JELD-WEN Ees
 
 | Years | Company | Role |
 |-------|---------|------|
-| Apr 2026 – Present | JELD-WEN Eesti AS | Junior Developer & IT Operations Specialist |
-| Sep 2024 – Mar 2026 | JELD-WEN Eesti AS | Web Developer *(internship)* |
-| Feb 2023 – Aug 2024 | JELD-WEN Eesti AS | IT Support Technician *(2 internships)* |
+| Apr 2026 - present | JELD-WEN Eesti AS | Junior Developer & IT Operations Specialist |
+| Sep 2024 - Mar 2026 | JELD-WEN Eesti AS | Web Developer *(internship)* |
+| Feb 2023 - Aug 2024 | JELD-WEN Eesti AS | IT Support Technician *(2 internships)* |
 
 ---
 
